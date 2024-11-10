@@ -14,7 +14,7 @@ LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
 
 LOCAL_SDK_VERSION := current
 
-LOCAL_PACKAGE_NAME := NusantaraPapers
+LOCAL_PACKAGE_NAME := KimochiPapers
 
 LOCAL_USE_AAPT2 := true
 
