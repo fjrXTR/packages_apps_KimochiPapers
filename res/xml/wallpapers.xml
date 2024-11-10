@@ -16,257 +16,115 @@
 -->
 <wallpapers>
 
-
-    <category id="npapers" title="@string/category_np" featured="np_01">
-
-        <static-wallpaper
-            id="np_01"
-            src="@drawable/np_01"
-            title="@string/wallpaper_np_01"
-            subtitle1="@string/author_np" 
-            actionUrl="@string/url_np" />
+    <category id="wp" title="@string/category_wp" featured="wp_0">
 
         <static-wallpaper
-            id="np_02"
-            src="@drawable/np_02"
-            title="@string/wallpaper_np_02"
-            subtitle1="@string/author_np" 
-            actionUrl="@string/url_np" />
+            id="wp"
+            src="@drawable/wallpaper_0"
+            title="@string/wallpaper_0"
+            actionUrl="@string/author_wp" />
 
         <static-wallpaper
-            id="np_03"
-            src="@drawable/np_03"
-            title="@string/wallpaper_np_03"
-            subtitle1="@string/author_np" 
-            actionUrl="@string/url_np" />
+            id="wp"
+            src="@drawable/wallpaper_1"
+            title="@string/wallpaper_1"
+            actionUrl="@string/author_wp" />
 
         <static-wallpaper
-            id="np_04"
-            src="@drawable/np_04"
-            title="@string/wallpaper_np_04"
-            subtitle1="@string/author_np" 
-            actionUrl="@string/url_np" />
+            id="wp"
+            src="@drawable/wallpaper_2"
+            title="@string/wallpaper_2"
+            actionUrl="@string/author_wp" />
 
         <static-wallpaper
-            id="np_05"
-            src="@drawable/np_05"
-            title="@string/wallpaper_np_05"
-            subtitle1="@string/author_np" 
-            actionUrl="@string/url_np" />
-
-    </category>
-
-    <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
+            id="wp"
+            src="@drawable/wallpaper_3"
+            title="@string/wallpaper_3"
+            actionUrl="@string/author_wp" />
 
         <static-wallpaper
-            id="space_as_seen_from_mars_1"
-            src="@drawable/space_as_seen_from_mars_1"
-            title="@string/wallpaper_space_as_seen_from_mars_1"
-            subtitle1="@string/author_infinitum" />
+            id="wp"
+            src="@drawable/wallpaper_4"
+            title="@string/wallpaper_4"
+            actionUrl="@string/author_wp" />
 
         <static-wallpaper
-            id="space_blue_giant_1"
-            src="@drawable/space_blue_giant_1"
-            title="@string/wallpaper_space_blue_giant_1"
-            subtitle1="@string/author_infinitum" />
+            id="wp"
+            src="@drawable/wallpaper_5"
+            title="@string/wallpaper_5"
+            actionUrl="@string/author_wp" />
 
         <static-wallpaper
-            id="space_strange_solar_planets_1"
-            src="@drawable/space_strange_solar_planets_1"
-            title="@string/wallpaper_space_strange_solar_planets_1"
-            subtitle1="@string/author_infinitum" />
+            id="wp"
+            src="@drawable/wallpaper_6"
+            title="@string/wallpaper_6"
+            actionUrl="@string/author_wp" />
 
         <static-wallpaper
-            id="space_strange_landscape_1"
-            src="@drawable/space_strange_landscape_1"
-            title="@string/wallpaper_space_strange_landscape_1"
-            subtitle1="@string/author_infinitum" />
+            id="wp"
+            src="@drawable/wallpaper_7"
+            title="@string/wallpaper_7"
+            actionUrl="@string/author_wp" />
 
         <static-wallpaper
-            id="space_unknown_planet_1"
-            src="@drawable/space_unknown_planet_1"
-            title="@string/wallpaper_space_unknown_planet_1"
-            subtitle1="@string/author_infinitum" />
+            id="wp"
+            src="@drawable/wallpaper_8"
+            title="@string/wallpaper_8"
+            actionUrl="@string/author_wp" />
 
         <static-wallpaper
-            id="space_warp_speed_1"
-            src="@drawable/space_warp_speed_1"
-            title="@string/wallpaper_space_warp_speed_1"
-            subtitle1="@string/author_infinitum" />
-
-    </category>
-
-    <category id="strange_dimension" title="@string/category_strange_dimension" featured="strange_dimension_vortex_3">
+            id="wp"
+            src="@drawable/wallpaper_9"
+            title="@string/wallpaper_9"
+            actionUrl="@string/author_wp" />
 
         <static-wallpaper
-            id="strange_dimension_vortex_1"
-            src="@drawable/strange_dimension_vortex_1"
-            title="@string/wallpaper_strange_dimension_vortex_1"
-            subtitle1="@string/author_infinitum" />
+            id="wp"
+            src="@drawable/wallpaper_10"
+            title="@string/wallpaper_10"
+            actionUrl="@string/author_wp" />
 
         <static-wallpaper
-            id="strange_dimension_vortex_2"
-            src="@drawable/strange_dimension_vortex_2"
-            title="@string/wallpaper_strange_dimension_vortex_2"
-            subtitle1="@string/author_infinitum" />
+            id="wp"
+            src="@drawable/wallpaper_11"
+            title="@string/wallpaper_11"
+            actionUrl="@string/author_wp" />
 
         <static-wallpaper
-            id="strange_dimension_vortex_3"
-            src="@drawable/strange_dimension_vortex_3"
-            title="@string/wallpaper_strange_dimension_vortex_3"
-            subtitle1="@string/author_infinitum" />
+            id="wp"
+            src="@drawable/wallpaper_12"
+            title="@string/wallpaper_12"
+            actionUrl="@string/author_wp" />
 
         <static-wallpaper
-            id="strange_dimension_vortex_4"
-            src="@drawable/strange_dimension_vortex_4"
-            title="@string/wallpaper_strange_dimension_vortex_4"
-            subtitle1="@string/author_infinitum" />
+            id="wp"
+            src="@drawable/wallpaper_13"
+            title="@string/wallpaper_13"
+            actionUrl="@string/author_wp" />
 
         <static-wallpaper
-            id="strange_dimension_fractal_5"
-            src="@drawable/strange_dimension_fractal_5"
-            title="@string/wallpaper_strange_dimension_fractal_5"
-            subtitle1="@string/author_infinitum" />
+            id="wp"
+            src="@drawable/wallpaper_14"
+            title="@string/wallpaper_14"
+            actionUrl="@string/author_wp" />
 
         <static-wallpaper
-            id="strange_dimension_fractal_4"
-            src="@drawable/strange_dimension_fractal_4"
-            title="@string/wallpaper_strange_dimension_fractal_4"
-            subtitle1="@string/author_infinitum" />
+            id="wp"
+            src="@drawable/wallpaper_15"
+            title="@string/wallpaper_15"
+            actionUrl="@string/author_wp" />
 
         <static-wallpaper
-            id="strange_dimension_fractal_1"
-            src="@drawable/strange_dimension_fractal_1"
-            title="@string/wallpaper_strange_dimension_fractal_1"
-            subtitle1="@string/author_infinitum" />
+            id="wp"
+            src="@drawable/wallpaper_16"
+            title="@string/wallpaper_16"
+            actionUrl="@string/author_wp" />
 
         <static-wallpaper
-            id="strange_dimension_fractal_2"
-            src="@drawable/strange_dimension_fractal_2"
-            title="@string/wallpaper_strange_dimension_fractal_2"
-            subtitle1="@string/author_infinitum" />
-
-        <static-wallpaper
-            id="strange_dimension_fractal_3"
-            src="@drawable/strange_dimension_fractal_3"
-            title="@string/wallpaper_strange_dimension_fractal_3"
-            subtitle1="@string/author_infinitum" />
-
-        <static-wallpaper
-            id="strange_dimension_warped_1"
-            src="@drawable/strange_dimension_warped_1"
-            title="@string/wallpaper_strange_dimension_warped_1"
-            subtitle1="@string/author_infinitum" />
-
-        <static-wallpaper
-            id="strange_dimension_warped_2"
-            src="@drawable/strange_dimension_warped_2"
-            title="@string/wallpaper_strange_dimension_warped_2"
-            subtitle1="@string/author_infinitum" />
-
-        <static-wallpaper
-            id="strange_dimension_warped_7"
-            src="@drawable/strange_dimension_warped_7"
-            title="@string/wallpaper_strange_dimension_warped_7"
-            subtitle1="@string/author_infinitum" />
-
-        <static-wallpaper
-            id="strange_dimension_warped_3"
-            src="@drawable/strange_dimension_warped_3"
-            title="@string/wallpaper_strange_dimension_warped_3"
-            subtitle1="@string/author_infinitum" />
-
-        <static-wallpaper
-            id="strange_dimension_warped_4"
-            src="@drawable/strange_dimension_warped_4"
-            title="@string/wallpaper_strange_dimension_warped_4"
-            subtitle1="@string/author_infinitum" />
-
-        <static-wallpaper
-            id="strange_dimension_warped_5"
-            src="@drawable/strange_dimension_warped_5"
-            title="@string/wallpaper_strange_dimension_warped_5"
-            subtitle1="@string/author_infinitum" />
-
-        <static-wallpaper
-            id="strange_dimension_warped_6"
-            src="@drawable/strange_dimension_warped_6"
-            title="@string/wallpaper_strange_dimension_warped_6"
-            subtitle1="@string/author_infinitum" />
-
-    </category>
-
-    <category id="unsplash" title="@string/category_unsplash" featured="unsplash_water_stars_bAcR26qMPnY">
-
-        <static-wallpaper
-            id="unsplash_water_stars_bAcR26qMPnY"
-            src="@drawable/unsplash_water_stars_bAcR26qMPnY"
-            title="@string/wallpaper_unsplash_water_stars_bAcR26qMPnY"
-            subtitle1="@string/author_vincent_ledvina"
-            actionUrl="@string/url_unsplash_water_stars_bAcR26qMPnY" />
-
-        <static-wallpaper
-            id="unsplash_night_mountain_6dqCCs0vCcU"
-            src="@drawable/unsplash_night_mountain_6dqCCs0vCcU"
-            title="@string/wallpaper_unsplash_night_mountain_6dqCCs0vCcU"
-            subtitle1="@string/author_samuel_ferrara"
-            actionUrl="@string/url_unsplash_night_mountain_6dqCCs0vCcU" />
-
-        <static-wallpaper
-            id="unsplash_cloudy_mountain_urabtxT2xPY"
-            src="@drawable/unsplash_cloudy_mountain_urabtxT2xPY"
-            title="@string/wallpaper_unsplash_cloudy_mountain_urabtxT2xPY"
-            subtitle1="@string/author_colin_lloyd"
-            actionUrl="@string/url_unsplash_cloudy_mountain_urabtxT2xPY" />
-
-        <static-wallpaper
-            id="unsplash_twilight_mountain_mt9TrXpGQjo"
-            src="@drawable/unsplash_twilight_mountain_mt9TrXpGQjo"
-            title="@string/wallpaper_unsplash_twilight_mountain_mt9TrXpGQjo"
-            subtitle1="@string/author_marek_piwnicki"
-            actionUrl="@string/url_unsplash_twilight_mountain_mt9TrXpGQjo" />
-
-        <static-wallpaper
-            id="unsplash_jungle_waterfall_ZfdwcbRyxHk"
-            src="@drawable/unsplash_jungle_waterfall_ZfdwcbRyxHk"
-            title="@string/wallpaper_unsplash_jungle_waterfall_ZfdwcbRyxHk"
-            subtitle1="@string/author_ines_alvarez_fdez"
-            actionUrl="@string/url_unsplash_jungle_waterfall_ZfdwcbRyxHk" />
-
-        <static-wallpaper
-            id="unsplash_aurora_lights_CgoRzWX4CDg"
-            src="@drawable/unsplash_aurora_lights_CgoRzWX4CDg"
-            title="@string/wallpaper_unsplash_aurora_lights_CgoRzWX4CDg"
-            subtitle1="@string/author_benjamin_suter"
-            actionUrl="@string/url_unsplash_aurora_lights_CgoRzWX4CDg" />
-
-        <static-wallpaper
-            id="unsplash_warm_jellyfish_NAP14GEjvh8"
-            src="@drawable/unsplash_warm_jellyfish_NAP14GEjvh8"
-            title="@string/wallpaper_unsplash_warm_jellyfish_NAP14GEjvh8"
-            subtitle1="@string/author_zetong_li"
-            actionUrl="@string/url_unsplash_warm_jellyfish_NAP14GEjvh8" />
-
-        <static-wallpaper
-            id="unsplash_chinese_lantern_SEOhJImTmIA"
-            src="@drawable/unsplash_chinese_lantern_SEOhJImTmIA"
-            title="@string/wallpaper_unsplash_chinese_lantern_SEOhJImTmIA"
-            subtitle1="@string/author_samuel_ferrara"
-            actionUrl="@string/url_unsplash_chinese_lantern_SEOhJImTmIA" />
-
-        <static-wallpaper
-            id="unsplash_pastel_plant_BaDjCICkyag"
-            src="@drawable/unsplash_pastel_plant_BaDjCICkyag"
-            title="@string/wallpaper_unsplash_pastel_plant_BaDjCICkyag"
-            subtitle1="@string/author_sixteen_miles_out"
-            actionUrl="@string/url_unsplash_pastel_plant_BaDjCICkyag" />
-
-        <static-wallpaper
-            id="unsplash_paint_splash_O_KKGafRBMk"
-            src="@drawable/unsplash_paint_splash_O_KKGafRBMk"
-            title="@string/wallpaper_unsplash_paint_splash_O_KKGafRBMk"
-            subtitle1="@string/author_pawel_czerwinski"
-            actionUrl="@string/url_unsplash_paint_splash_O_KKGafRBMk" />
+            id="wp"
+            src="@drawable/wallpaper_17"
+            title="@string/wallpaper_17"
+            actionUrl="@string/author_wp" />
 
     </category>
 
